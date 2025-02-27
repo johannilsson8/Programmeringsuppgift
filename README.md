@@ -4,4 +4,4 @@
 
 ## Test
 - Test-mappen innehåller input/output filer som jag använde för mina tre test.
-- Testen har körs genom filen "RunTests.java"
+- Testen har körts genom filen "RunTests.java"
