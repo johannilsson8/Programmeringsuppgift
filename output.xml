@@ -1,0 +1,54 @@
+<buildings>
+  <company>
+    <name>Devay</name>
+    <type>Consulting</type>
+    <address>
+      <street>Blekingegatan 1, Våning 10</street>
+      <city>Karlskrona</city>
+      <zipcode>37132</zipcode>
+    </address>
+    <phone>
+      <landline>045511223</landline>
+      <fax>045511224</fax>
+    </phone>
+  </company>
+  <building>
+    <name>KTC</name>
+    <address>
+      <street>Blekingegatan 1</street>
+      <city>Karlskrona</city>
+      <zipcode>37132</zipcode>
+    </address>
+    <owner>
+      <name>Capital Invest</name>
+      <phone>
+        <landline>0812343256</landline>
+        <fax>0812343257</fax>
+      </phone>
+      <address>
+        <street>Storgatan 7</street>
+        <city>Stockholm</city>
+        <zipcode>12344</zipcode>
+      </address>
+    </owner>
+    <company>
+      <name>Moonlight Products</name>
+      <type>Finance</type>
+      <address>
+        <street>Blekingegatan 1, Våning -1</street>
+        <city>Karlskrona</city>
+        <zipcode>37132</zipcode>
+      </address>
+    </company>
+  </building>
+  <building>
+    <name>Brännhuset</name>
+    <owner>
+      <name>Nisse Brännhult</name>
+      <address>
+        <street>Ringvägen 666</street>
+        <city>Nättraby</city>
+      </address>
+    </owner>
+  </building>
+</buildings>

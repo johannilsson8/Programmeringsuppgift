@@ -1,0 +1,28 @@
+B|KTC|
+
+A|Blekingegatan
+ 1|Karlskrona|37132 
+
+O|Capital Invest|Fel
+
+T|0812343256|0812343257 
+
+A|Storgatan 7|Stockholm|12344 
+
+C|Devay|Consulting 
+
+A|Blekingegatan
+ 1, Våning 10|Karlskrona|37132 
+
+T|045511223|045511224 
+
+C|Moonlight Products|Finance 
+
+A|Blekingegatan
+ 1, Våning -1|Karlskrona|37132 
+
+B|Brännhuset 
+
+O|Nisse Brännhult 
+
+A|Ringvägen 666|Nättraby 
